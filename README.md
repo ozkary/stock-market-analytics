@@ -2,6 +2,8 @@
 
 This Jupyter Notebook project explores stock market data analysis and potential trading strategies using Python. 
 
+![Stock Market Analytics by ozkary](./images/ozkary-stock-market-analytics.jpg)
+
 **Project Structure:**
 
 The project is organized into five sections, each with its own notebook(s):
@@ -11,6 +13,8 @@ The project is organized into five sections, each with its own notebook(s):
   3. **Modeling (03-modeling):** This section dives into building models for stock price prediction or market behavior. It can explore various models like linear regression, ARIMA, or machine learning algorithms.
   4. **Trading Strategy (04-trading-strategy):** This section explores developing potential trading strategies based on the analysis and models. Backtesting techniques may be implemented to evaluate the strategies' effectiveness.
   5. **Operations (05-operations):** This section may cover aspects like automating data retrieval, model training, and strategy execution. It could involve scheduling tools or cloud platforms.
+
+
 
 **Documentation:**
 
