@@ -3,3 +3,4 @@ pandas-datareader
 numpy
 plotly
 yfinance
+bs4

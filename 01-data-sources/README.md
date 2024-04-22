@@ -59,3 +59,27 @@ The S&P 500 (Standard & Poor's 500) is a stock market index that tracks the perf
 **IPC Mexico:**
 
 The IPC Mexico (Índice de Precios y Cotizaciones) is a stock market index that tracks the performance of the 35 largest and most liquid stocks listed on the Bolsa Mexicana de Valores (BMV), the main stock exchange in Mexico. It serves as a benchmark for the Mexican stock market.
+
+## Important Metrics
+
+Dividend yield and growth rate are **critical metrics** for analyzing dividend-paying stocks.  
+
+* **Dividend Yield:** This metric reflects the percentage return you receive on your investment based on the annual dividend payout per share relative to the current stock price. It's a good starting point for identifying income-generating potential.
+* **Dividend Growth Rate:** This measures the year-over-year increase in the dividend amount per share. A consistent or rising growth rate suggests a company's commitment to rewarding shareholders and potentially signals financial stability.
+* **Payout Ratio:** This ratio indicates the portion of a company's net income that's distributed as dividends. While a higher payout ratio suggests more income for shareholders, it can also limit resources for company growth. A sustainable payout ratio is ideal.
+* **Earnings Per Share (EPS):** This metric represents a company's profit attributable to each common share outstanding. It helps assess a company's profitability and its ability to maintain dividend payments in the future.
+* **Price-to-Earnings Ratio (P/E Ratio):** This ratio compares a company's stock price to its EPS. A lower P/E ratio might suggest a potentially undervalued stock, especially if the company offers a healthy dividend yield.
+
+**Valuable Time Series:**
+
+* **Historical Dividend History:** Analyzing historical dividend payments over several years can reveal trends in payouts, growth rates, and potential periods of suspension or reduction. This can provide insights into the company's dividend policy and its commitment to shareholder rewards.
+* **Stock Price Chart:** Visualizing the stock price alongside the dividend payments can help identify correlations between price movements and dividend announcements. This can reveal patterns and potential buying or selling opportunities.
+* **Analyst Ratings and Recommendations:** Examining analyst ratings and recommendations can provide insights into the future outlook for the company's dividend policy and overall financial health. While not a guarantee, analyst opinions can offer valuable perspectives on the company's prospects.
+
+**Additional Considerations:**
+
+* **Company Sector and Industry:** Dividend-paying stocks are more common in certain sectors like utilities or consumer staples. Comparing metrics and trends within the same industry can be more meaningful as companies within a sector often share similar characteristics.
+* **Company Size and Maturity:** Larger, more established companies might be more reliable dividend payers compared to smaller, high-growth companies that might prioritize reinvesting profits for future expansion.
+* **Overall Investment Strategy:** Consider your investment goals and risk tolerance. Dividend-paying stocks can provide a steady income stream but might have lower overall growth potential compared to non-dividend-paying growth stocks. 
+
+By analyzing these metrics and time series in conjunction with the dividend yield, you can build a more comprehensive picture of a company's suitability for your investment portfolio, considering both income generation and potential for future growth. 
