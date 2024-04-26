@@ -8,8 +8,8 @@ This Jupyter Notebook project explores stock market data analysis and potential 
 
 The project is organized into five sections, each with its own notebook(s):
 
-  1. **Data Sources (01-data-sources):** This section explores various data sources for historical and real-time stock market data. It will discuss APIs, financial data providers, and potential data manipulation techniques. 
-  2. **Analysis (02-analysis):** This section focuses on analyzing the collected data. It will cover techniques like calculating returns, volatility, correlations, and potentially using visualization libraries like Matplotlib or Seaborn.
+  1. **[Data Sources](./01-data-sources/):** This section explores various data sources for historical and real-time stock market data. It will discuss APIs, financial data providers, and potential data manipulation techniques. 
+  2. **[Analysis](./02-analysis):** This section focuses on analyzing the collected data. It will cover techniques like calculating returns, volatility, correlations, and potentially using visualization libraries like Matplotlib or Seaborn.
   3. **Modeling (03-modeling):** This section dives into building models for stock price prediction or market behavior. It can explore various models like linear regression, ARIMA, or machine learning algorithms.
   4. **Trading Strategy (04-trading-strategy):** This section explores developing potential trading strategies based on the analysis and models. Backtesting techniques may be implemented to evaluate the strategies' effectiveness.
   5. **Operations (05-operations):** This section may cover aspects like automating data retrieval, model training, and strategy execution. It could involve scheduling tools or cloud platforms for deployments.
